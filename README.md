@@ -1,5 +1,5 @@
 # « About Me:
-I'm a full stack developer,<br>Seeking entry level jobs and solving real world problems, and working numerous  projects
+I'm a full stack developer,<br>Seeking entry level jobs and solving real world problems, and working on numerous real world projects
 
 
 #  Socials:
