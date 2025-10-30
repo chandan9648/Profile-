@@ -60,7 +60,7 @@ Currently seeking **entry-level opportunities** in full-stack development while 
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chandan9648&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan9648&theme=radical" />
+  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan9648&theme=radical" /> -->
 </p>
 
 <p align="center">
