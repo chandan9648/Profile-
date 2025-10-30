@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandan Kumar
+# 👋 Hi, I'm Chandan Chaudhary
 
 💻 **Full Stack Developer | Problem Solver | Tech Enthusiast**  
 I'm passionate about building scalable, user-focused applications and solving real-world problems with clean, efficient code.  
@@ -19,7 +19,7 @@ Currently seeking **entry-level opportunities** in full-stack development while 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-310156273)  
-📧 **Email:** [chandank9648@gmail.com](mailto:chandank9648@gmail.com)
+📧 **Email:** [chandank9648@gmail.com](mailto:chandankkumar156@gmail.com)
 
 ---
 
@@ -89,5 +89,5 @@ Personal portfolio built using React.js, TailwindCSS, and Vite — fully respons
 
 <p align="center">
   <b>✨ "Code. Create. Contribute." ✨</b><br>
-  <sub>— Chandan Kumar</sub>
+  <sub>— Chandan Chaudhary</sub>
 </p>
