@@ -19,7 +19,7 @@ Currently seeking **entry-level opportunities** in full-stack development while 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-310156273)  
-📧 **Email:** [chandank9648@gmail.com](mailto:chandankkumar156@gmail.com)
+📧 **Email:** [chandankkumar156@gmail.com](mailto:chandankkumar156@gmail.com)
 
 ---
 
