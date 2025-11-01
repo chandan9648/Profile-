@@ -71,10 +71,10 @@ Currently seeking **entry-level opportunities** in full-stack development while 
 
 ## 📌 Featured Projects
 
-### [📊 Excel Analytics](https://github.com/chandan9648/Excel-analytics)
+### [📊 Excel Analytics](https://excel-analytics-2004.vercel.app)
 A full-stack MERN-based platform for uploading Excel files, visualizing data with 2D/3D charts, and generating AI insights.
 
-### [🌐 My Portfolio Website](https://github.com/chandan9648/mywebsite)
+### [🌐 My Portfolio Website](https://chandanchaudhary.vercel.app)
 Personal portfolio built using React.js, TailwindCSS, and Vite — fully responsive and optimized for all devices.
 
 ---
