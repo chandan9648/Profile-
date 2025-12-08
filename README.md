@@ -57,24 +57,13 @@ Currently seeking **entry-level opportunities** in full-stack development while 
 ---
 
 ## 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chandan9648&show_icons=true&theme=radical" />
-  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan9648&theme=radical" /> -->
+<p align="center">
+  <img width="49%" src="https://gh-readme-stats-arjixx.vercel.app/api?username=chandan9648&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9648&layout=compact&theme=radical" />
-</p> -->
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-zeta-swart-59.vercel.app/api?username=chandan9648&show_icons=true&theme=radical" />
+  <img width="49%" src="https://gh-readme-stats-arjixx.vercel.app/api/top-langs/?username=chandan9648&layout=compact&theme=radical" />
 </p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-zeta-swart-59.vercel.app/api/top-langs/?username=chandan9648&layout=compact&theme=radical" />
-</p>
-
 
 ---
 
