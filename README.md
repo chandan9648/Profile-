@@ -58,14 +58,16 @@ Currently seeking **entry-level opportunities** in full-stack development while 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=chandan9648&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=chandan9648&show_icons=true&theme=radical"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9648&layout=compact&theme=radical"
+    height="165"
+  />
 </p>
 
-<p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9648&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
 
 
 ---
