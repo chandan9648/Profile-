@@ -58,9 +58,9 @@ Currently seeking **entry-level opportunities** in full-stack development while 
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | Top Languages |
-|-------------|---------------|
-| ![](https://github-readme-stats.vercel.app/api?username=chandan9648&show_icons=true&theme=radical) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9648&layout=compact&theme=radical) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandan9648&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9648&layout=compact&theme=radical)
 
 
 
